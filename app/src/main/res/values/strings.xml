@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EPL428_Homework_1</string>
+    <string name="title_activity_user_listing">UserListingActivity</string>
+    <string name="title_activity_user_update_delete">UserUpdateDeleteActivity</string>
+    <string name="title_activity_add_user">AddUserActivity</string>
+</resources>
